@@ -1,0 +1,25 @@
+{
+    "name": "simple-binary-search",
+    "version": "1.0.0",
+    "description": "Simple binary search algorithm implementation",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "eslint": "npx eslint index.js",
+        "test": "node tests/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chausme/simple-binary-search.git"
+    },
+    "devDependencies": {
+        "eslint": "^8.31.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-config-prettier": "^8.6.0",
+        "eslint-plugin-import": "^2.26.0",
+        "prettier": "2.8.1"
+    },
+    "keywords": ["algorithms", "search", "algorithm"],
+    "author": "chausme",
+    "license": "MIT"
+}
