@@ -1,5 +1,7 @@
 # Simple Binary Search
 
+[![npm](https://img.shields.io/npm/v/simple-binary-search.svg?style=flat-square)](https://www.npmjs.com/package/simple-binary-search)
+
 Simple binary search algorithm implementation
 
 # Install
