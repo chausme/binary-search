@@ -1,6 +1,6 @@
 {
     "name": "simple-binary-search",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Simple binary search algorithm implementation",
     "type": "module",
     "main": "index.js",

@@ -1,4 +1,4 @@
-export default (arrSorted, element) => {
+const binarySearch = (arrSorted, element) => {
     let startIndex = 0;
     let endIndex = arrSorted.length - 1;
 
@@ -16,3 +16,5 @@ export default (arrSorted, element) => {
 
     return -1;
 };
+
+export default binarySearch;
